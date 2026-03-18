@@ -4,7 +4,7 @@ This package contains a Dockerized NVIDIA DeepStream 8.0 application that perfor
 
 ## Demonstrations
 
-![Demonstration](https://github.com/user-attachments/assets/6ac98dd6-122c-4ea3-9345-97111ea97e53)
+<video src="https://github.com/user-attachments/assets/6ac98dd6-122c-4ea3-9345-97111ea97e53" controls="controls" muted="muted" autoplay="autoplay" loop="loop" style="max-width: 100%;"></video>
 
 <p align="center">
   <img src="assets/input.png" width="49%" alt="ROI Dwell Time Tracking">
