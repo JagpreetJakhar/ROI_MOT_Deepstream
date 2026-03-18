@@ -4,11 +4,13 @@ This package contains a Dockerized NVIDIA DeepStream 8.0 application that perfor
 
 ## Demonstrations
 
-![ROI Dwell Time Tracking](assets/input.png)
-*Example output demonstrating Region of Interest (ROI) monitoring and Dwell Time tracking.*
+<video src="assets/output.mp4" width="100%" controls autoplay loop></video>
 
-![Multi-Object Tracking](assets/input_2.png)
-*Another example output showing vehicle tracking.*
+<p align="center">
+  <img src="assets/input.png" width="49%" alt="ROI Dwell Time Tracking">
+  <img src="assets/input_2.png" width="49%" alt="Multi-Object Tracking">
+</p>
+*Left: Region of Interest (ROI) monitoring and Dwell Time tracking. Right: Vehicle tracking.*
 
 ## Features
 
